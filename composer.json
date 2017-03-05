@@ -1,0 +1,10 @@
+{
+    "name": "michael/autopostcomment",
+    "description": "post comment",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "coderockr/php-query": "dev-master",
+        "phpxmlrpc/phpxmlrpc": "4.0"
+    }
+}
